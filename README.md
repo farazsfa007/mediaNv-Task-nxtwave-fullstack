@@ -2,7 +2,7 @@ Job Application & Hiring Portal
 A full-stack Job Board application built with the MERN stack (PostgreSQL version). This platform allows Recruiters (Admins) to post jobs and view applicants, while Candidates can browse, search, apply, and save jobs to favourites.
 
 🔗 Repositories
-### Backend: https://github.com/farazsfa007/mediaNv-Task-nxtwave-backend
+## Backend: https://github.com/farazsfa007/mediaNv-Task-nxtwave-backend
 
 Frontend: https://github.com/farazsfa007/mediaNv-Task-nxtwave-fullstack
 
